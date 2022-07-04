@@ -1,4 +1,4 @@
-# advice-generator
+# Frontend Mentor | Advice generator app
 
 ## Project setup
 ```
